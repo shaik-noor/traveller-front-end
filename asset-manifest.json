@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/traveller-front-end/static/css/main.465acb67.css",
-    "main.js": "/traveller-front-end/static/js/main.f0b43ab9.js",
+    "main.js": "/traveller-front-end/static/js/main.8f098370.js",
     "static/js/787.4b1552e3.chunk.js": "/traveller-front-end/static/js/787.4b1552e3.chunk.js",
     "index.html": "/traveller-front-end/index.html",
     "main.465acb67.css.map": "/traveller-front-end/static/css/main.465acb67.css.map",
-    "main.f0b43ab9.js.map": "/traveller-front-end/static/js/main.f0b43ab9.js.map",
+    "main.8f098370.js.map": "/traveller-front-end/static/js/main.8f098370.js.map",
     "787.4b1552e3.chunk.js.map": "/traveller-front-end/static/js/787.4b1552e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.465acb67.css",
-    "static/js/main.f0b43ab9.js"
+    "static/js/main.8f098370.js"
   ]
 }
