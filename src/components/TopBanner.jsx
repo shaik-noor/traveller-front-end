@@ -31,7 +31,7 @@ const TopBanner = () => {
         </div>
         
         <div>
-        <button className='px-4 py-2 border bg-gradient-to-r from-[#0646A7] to-[#3A62AE] text-white'>
+        <button className='px-4 py-2 border rounded bg-gradient-to-r from-[#0646A7] to-[#3A62AE] text-white'>
         <a href="#book">Book Now</a> 
         </button>
         </div>

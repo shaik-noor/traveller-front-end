@@ -14,7 +14,7 @@ const ContactSection = () =>{
                         <input className="border m-2 p-2" type="email" placeholder="Email"/>
                         <input className="border m-2 p-2" type="tel" placeholder="Phone"/>
                         <textarea className="border col-span-2 m-2 p-2"cols='30'rows='10' placeholder="Start Typing.."></textarea>
-                        <button className='col-span-2 m-2 p-2 border bg-gradient-to-r from-[#0646A7] to-[#3A62AE] text-white'>Send</button>
+                        <button className='col-span-2 m-2 p-2 border rounded bg-gradient-to-r from-[#0646A7] to-[#3A62AE] text-white'>Send</button>
                         
                     </div>
                 </form>

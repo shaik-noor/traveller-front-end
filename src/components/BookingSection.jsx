@@ -21,7 +21,7 @@ const BookingSection = () =>{
                     </div>
                 </div>
                 <div className="flex flex-col my-2 p-2 w-full">
-                    <button id="/" className='mt-4 px-4 py-2 border bg-gradient-to-r from-[#0646A7] to-[#3A62AE] text-white'>Check Availability</button>
+                    <button id="/" className='mt-4 px-4 py-2 border rounded bg-gradient-to-r from-[#0646A7] to-[#3A62AE] text-white'>Check Availability</button>
                 </div>
             </form>
 
