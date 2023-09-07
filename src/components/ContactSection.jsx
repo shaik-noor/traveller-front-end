@@ -5,7 +5,7 @@ const ContactSection = () =>{
             <p className="text-center text-gray-500 pb-4">Have a question or feedback? Contact us anytime, and we'll get back to you as soon as possible.</p>
             <div className="grid md:grid-cols-2">
                 <img className="w-full md:h-full object-cover p-2 max-h-[450px] h-[200px]" 
-                src="../assets/help_desk.jpg" alt="desk" />
+                src="./assets/help_desk.jpg" alt="desk" />
                 <form>
                     <div className="grid grid-cols-2">
                         <input className="border m-2 p-2"type="text" placeholder="First Name"/>
