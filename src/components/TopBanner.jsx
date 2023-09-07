@@ -14,7 +14,7 @@ const TopBanner = () => {
         </div>
         
         
-        <div className='flex m-2 px-4 text-red-600 font-bold items-center'>
+        <div className='hidden sm:flex m-2 px-4 text-red-600 font-bold items-center'>
         <BiSolidOffer size={26}/>
         <h2>50% Discount</h2>
         </div>
