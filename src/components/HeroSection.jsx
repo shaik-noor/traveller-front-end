@@ -1,7 +1,7 @@
 const HeroSection = () =>{
     return(
     
-        <div className="w-full h-[90vh]">
+        <div id="home" className="w-full h-[90vh]">
         <img
             className="w-full h-full object-cover" 
             src="./assets/Hero.jpg" alt="hero" />
