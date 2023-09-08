@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/traveller-front-end/static/css/main.0fa26bac.css",
-    "main.js": "/traveller-front-end/static/js/main.f7cb1de1.js",
+    "main.css": "/traveller-front-end/static/css/main.2bd1bf8f.css",
+    "main.js": "/traveller-front-end/static/js/main.e6884229.js",
     "static/js/787.4b1552e3.chunk.js": "/traveller-front-end/static/js/787.4b1552e3.chunk.js",
     "static/media/help_desk.jpg": "/traveller-front-end/static/media/help_desk.2cb922e8794541231158.jpg",
     "index.html": "/traveller-front-end/index.html",
-    "main.0fa26bac.css.map": "/traveller-front-end/static/css/main.0fa26bac.css.map",
-    "main.f7cb1de1.js.map": "/traveller-front-end/static/js/main.f7cb1de1.js.map",
+    "main.2bd1bf8f.css.map": "/traveller-front-end/static/css/main.2bd1bf8f.css.map",
+    "main.e6884229.js.map": "/traveller-front-end/static/js/main.e6884229.js.map",
     "787.4b1552e3.chunk.js.map": "/traveller-front-end/static/js/787.4b1552e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fa26bac.css",
-    "static/js/main.f7cb1de1.js"
+    "static/css/main.2bd1bf8f.css",
+    "static/js/main.e6884229.js"
   ]
 }
