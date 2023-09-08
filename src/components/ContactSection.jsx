@@ -1,4 +1,4 @@
-import images from '../assets/help_desk.jpg';
+import images from './assets/help_desk.webp';
 const ContactSection = () =>{
     return(
         <div id="contact" className="max-w-[1200px] m-auto w-full p-4 py-15">

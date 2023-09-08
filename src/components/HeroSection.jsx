@@ -4,7 +4,7 @@ const HeroSection = () =>{
         <div id="home" className="w-full h-[90vh]">
         <img
             className="w-full h-full object-cover" 
-            src="./assets/Hero.jpg" alt="hero" />
+            src="./assets/Hero.webp" alt="hero" />
         <div className="max-w-[1200px] m-auto">
             <div className="px-5 absolute top-[40%] w-full md:-[50%] max-w-[600px] h-full flex flex-col text-white">
             <h1 className="font-bold text-4xl">Welcome to Traveller</h1>
