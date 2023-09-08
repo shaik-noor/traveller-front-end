@@ -6,6 +6,7 @@ import BookingSection from './components/BookingSection';
 import Gallery from './components/Gallery';
 import ContactSection from './components/ContactSection';
 import FooterSection from './components/FooterSection';
+import BackToTop from './components/BackToTop';
 function App() {
   return (
     <>
@@ -17,6 +18,7 @@ function App() {
     <Gallery />
     <ContactSection />
     <FooterSection />
+    <BackToTop />
     </>
   );
 }
